@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asfak27" alt="asfak27" /></a> </p>
 
-- 🌱 I’m currently learning **DS_ALGO**
+- 🌱 I’m currently learning **DS_ALGO, Angular, React, Python**
 
 - 💬 Ask me about **CP**
 
